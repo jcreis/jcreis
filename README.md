@@ -11,7 +11,6 @@ I have experience in the development and integration of back-end systems. I've w
 <br/>
 In the past few months, I've been working on expanding the number of programming languages I'm familiar with - currently looking at C++ and Python. I also have interest in expanding my knowledge to the front-end techs, such as React and Angular. But one thing at a time.<br/>
 
-<br/>
 
 ---
 
