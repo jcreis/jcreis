@@ -4,7 +4,7 @@
   
 I'm a Software Developer with particular interest in back-end development, but always willing to go out of my confort zone and try out new things.<br/>
 <br/>
-I have graduated in 2021 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.
+I'vegraduated in 2021 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.
 My thesis, titled "TREDIS – A Trusted Full-Fledged SGX-Enabled REDIS Solution", can be found [here](https://run.unl.pt/bitstream/10362/116775/1/Reis_2021.pdf) if you want to take a look.<br/>
 <br/>
 I have experience in the development and integration of back-end systems. I've worked in the telecommunications field as a back-end developer and in the financial/crypto market field as a security software developer and researcher.<br/>
