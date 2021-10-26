@@ -40,10 +40,16 @@ Languages and Tools 🛠:
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sgx-icon.png"></code>
 
 </details>
+### Languages and Tools 🛠:
+
+[<img align="left" alt="Java" width="22px" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/java-icon.jpg" />]
+[<img align="left" alt="Scala" width="22px" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/scala-icon.png" />]
+[<img align="left" alt="Kotlin" width="22px" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/kotlin-icon.png" />]
+
 
 ---
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="João's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />][github]
 [<img align="left" alt="João's LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
@@ -85,9 +91,3 @@ Languages and Tools 🛠:
 <a href="https://github.com/jcreis/SpringShellApp">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SpringShellApp&theme=tokyonight" />
 </a>
-
-
-[github]: https://github.com/jcreis
-[linkedin]: https://linkedin.com/in/joaoreis96
-[telegram]: https://t.me/jcreis96
-
