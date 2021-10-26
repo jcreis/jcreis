@@ -1,5 +1,9 @@
 ### Hi! 👋 I'm João (pronounced J·oa·ow) 
 
+<div class="embed-responsive embed-responsive-19by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sH8H55wogoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+  
 ### About me🧑:
 I'm Software Developer with particular interest in back-end development, but always willing to go out of my confort zone and try out new things.<br/>
 I have graduated in 2021 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.<br/>
