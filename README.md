@@ -1,4 +1,5 @@
-### Hi! 👋 I'm João [ J·oa·ow ]
+### Hi! 👋 
+### I'm João [ J·oa·ow ]
   
 I'm Software Developer with particular interest in back-end development, but always willing to go out of my confort zone and try out new things.<br/>
 I have graduated in 2021 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.
