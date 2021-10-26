@@ -1,4 +1,4 @@
-### Hi! 👋 I'm João (pronounced J·oa·ow) 
+### Hi! 👋 I'm João (pronounced [ J·oa·ow ] if you feel like giving it a try :smile:) 
 
 <div class="embed-responsive embed-responsive-19by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sH8H55wogoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
