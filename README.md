@@ -45,11 +45,9 @@ Languages and Tools 🛠:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/jcreis/jcreis/blob/main/connect-icons/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/jcreis/jcreis/blob/main/connect-icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="João's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />][github]
+[<img align="left" alt="João's LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
+[<img align="left" alt="João's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />][telegram]
 
 <br />
 
@@ -87,4 +85,9 @@ Languages and Tools 🛠:
 <a href="https://github.com/jcreis/SpringShellApp">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SpringShellApp&theme=tokyonight" />
 </a>
+
+
+[github]: https://github.com/jcreis
+[linkedin]: https://linkedin.com/in/joaoreis96
+[telegram]: https://t.me/jcreis96
 
