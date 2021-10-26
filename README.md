@@ -28,8 +28,8 @@ Languages and Tools🛠:
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/javascript-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/nodejs-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/spring-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/expressjs-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/hibernate-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/expressjs-icon.jpg"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/hibernate-icon.jpg"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/mysql-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/oraclesql-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/redis-icon.png"></code>
