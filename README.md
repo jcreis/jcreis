@@ -1,4 +1,6 @@
 ### Hi! 👋 I'm João [ J·oa·ow ]
+
+<br/>
   
 I'm a Software Developer with particular interest in back-end development, but always willing to go out of my confort zone and try out new things.<br/>
 <br/>
