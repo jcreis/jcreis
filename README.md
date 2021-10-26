@@ -16,31 +16,31 @@ In the past few months, I've been working on expanding the number of programming
 Languages and Tools🛠:
 </summary>
   <br/>
-<code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
-  - Scala
-  - Kotlin
-  - WebMethods
-<code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-  - Python
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  - Spring Boot
-  - ExpressJS
-  - JPA Hibernate
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  - Oracle SQL Developer
-  - Redis
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  - Docker
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-  - Intel-SGX
-  - Eclipse
-  - IntelliJ
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/java-icon.jpg"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/scala-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/kotlin-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/webmethods-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/c-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/cpp-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/python-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/html-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/css-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/javascript-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/nodejs-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/spring-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/expressjs-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/hibernate-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/mysql-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/oraclesql-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/redis-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/git-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/docker-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/firebase-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sgx-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/eclipse-icon.jfif"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/intellij-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/vscode-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/androidstudio-icon.png"></code>
 
 </details>
 
