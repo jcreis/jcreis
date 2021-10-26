@@ -41,7 +41,7 @@ In the past few months, I've been working on expanding the number of programming
 
 ### Contact me:
 
-<code><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>[github]
+<code><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png">[github]</code>
 [<img align="left" alt="João's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />][github]
 [<img align="left" alt="João's LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
 [<img align="left" alt="João's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />][telegram]
