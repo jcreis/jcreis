@@ -1,4 +1,4 @@
-### Hi! 👋 I'm João ( pronounced [ J·oa·ow ] if you feel like giving it a try :smile: )
+### Hi! 👋 I'm João [ J·oa·ow ]
   
 ### About me 🧑:
 I'm Software Developer with particular interest in back-end development, but always willing to go out of my confort zone and try out new things.<br/>
