@@ -1,4 +1,4 @@
-### Hi! 👋 I'm João [ J·oa·ow ]
+### Hi! 👋 I'm João [ J · oa · ow ]
 
 <br/>
   
