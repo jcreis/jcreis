@@ -43,27 +43,15 @@ Languages and Tools 🛠:
 
 ---
 
-<details>
-<summary> Connect with me 🤝: </summary>  
+### Connect with me:
 
-<br/>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<a href="https://linkedin.com/in/joaoreis96/">
-  <img align="left" alt="João's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<a href="https://t.me/jcreis96">
-  <img align="left" alt="João's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
-<a href="https://github.com/jcreis">
-  <img align="left" alt="João's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-
-<br/>
-
-</details>
+<br />
 
 ---
 
