@@ -3,7 +3,7 @@
 ### About me🧑:
 I'm Software Developer with particular interest in back-end development, but always willing to go out of my confort zone and try out new things.<br/>
 I have graduated in 2021 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.<br/>
-My thesis, titled "TREDIS – A Trusted Full-Fledged SGX-Enabled REDIS Solution", can be found [here](https://run.unl.pt/bitstream/10362/116775/1/Reis_2021.pdf), if you want to take a look.<br/>
+My thesis, titled "TREDIS – A Trusted Full-Fledged SGX-Enabled REDIS Solution", can be found [here](https://run.unl.pt/bitstream/10362/116775/1/Reis_2021.pdf) if you want to take a look.<br/>
 I have experience in the development and integration of back-end systems. I've worked in the telecommunications field as a back-end developer and in the financial/crypto market field as a junior security software developer.<br/>
 In the past few months, I've been working on expand the number of programming languages I'm familiar with - currently looking at C++ and Python. I also have interest in expanding my knowledge to the front-end techs, such as React and Angular, but one thing at a time.<br/>
 
@@ -85,12 +85,17 @@ Languages and Tools🛠:
 <br/>
 
 ### My Projects ✨:
-  
-<a href="https://github.com/jcreis/TrustedREDIS_Impl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=TrustedREDIS_Impl&theme=tokyonight" />
+
+
+<a href="https://github.com/jcreis/VacationManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=VacationManager&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/jcreis/proj2">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=<proj2>&theme=tokyonight" />
+<a href="https://github.com/jcreis/sparkApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sparkApp&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/jcreis/SpringShellApp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SpringShellApp&theme=tokyonight" />
 </a>
 
