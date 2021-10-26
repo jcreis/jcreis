@@ -91,3 +91,8 @@ Languages and Tools 🛠:
 <a href="https://github.com/jcreis/SpringShellApp">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SpringShellApp&theme=tokyonight" />
 </a>
+
+
+[github]: https://github.com/jcreis
+[linkedin]: https://linkedin.com/in/joaoreis96
+[telegram]: https://t.me/jcreis96
