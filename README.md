@@ -17,7 +17,7 @@ In the past few months, I've been working on expanding the number of programming
 
 ### Languages and Tools 🛠:
 
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/java-icon.jpg"><em>image_caption</em></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/java-icon.jpg"></code><em>image_caption</em>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/scala-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/kotlin-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sag-icon.png"></code>
