@@ -19,7 +19,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/java-icon.jpg"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/scala-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/kotlin-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/webmethods-icon.png"></code>
+<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sag-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/c-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/cpp-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/python-icon.png"></code>
