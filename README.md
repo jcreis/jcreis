@@ -27,9 +27,6 @@ Languages and Tools🛠:
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/css-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/javascript-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/nodejs-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/spring-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/expressjs-icon.jpg"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/hibernate-icon.jpg"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/mysql-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/oraclesql-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/redis-icon.png"></code>
@@ -37,10 +34,6 @@ Languages and Tools🛠:
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/docker-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/firebase-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sgx-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/eclipse-icon.jfif"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/intellij-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/vscode-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/androidstudio-icon.png"></code>
 
 </details>
 
