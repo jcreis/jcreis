@@ -2,7 +2,7 @@
 
 <br/>
   
-I'm a Software Developer with particular interest in back-end development, but always willing to get out of my confort zone to try out new stuff.<br/>
+I'm a Software Developer from Portugal with particular interest in back-end development, but always willing to get out of my confort zone to try out new stuff.<br/>
 <br/>
 I've graduated in 2021 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.
 My thesis, titled "*TREDIS – A Trusted Full-Fledged SGX-Enabled REDIS Solution*", can be found [here](https://run.unl.pt/bitstream/10362/116775/1/Reis_2021.pdf) if you want to take a look.<br/>
