@@ -74,11 +74,11 @@ In the past few months, I've been working on expanding the number of programming
 </a>
 
 <a href="https://github.com/jcreis/sparkApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sparkApp&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sparkAp&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/jcreis/SpringShellApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SpringShellApp&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SpringShellAp&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/jcreis/SpringShellApp">
