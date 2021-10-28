@@ -1,4 +1,5 @@
 <h1 align="left">Hey! 👋 I'm João </h1>
+<h3 align="left"> [ J · oa · ow ] </h3>
 ### Hey!  I'm João [ J · oa · ow ]
 
 <br/>
