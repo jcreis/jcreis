@@ -18,6 +18,7 @@ In the past few months, I've been working on expanding the number of programming
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/java-icon.jpg"></code>
