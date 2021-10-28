@@ -71,7 +71,6 @@ In the past few months, I've been working on expanding the number of programming
 
 [<img align="left" alt="João's GitHub" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />][github]
 [<img align="left" alt="João's LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-<!--- [<img align="left" alt="João's Telegram" width="30" height="30" src="https://web.telegram.org/img/logo_share.png" />][telegram] -->
 
 <br />
 
@@ -94,4 +93,3 @@ In the past few months, I've been working on expanding the number of programming
 
 [github]: https://github.com/jcreis
 [linkedin]: https://linkedin.com/in/joaoreis96
-[telegram]: https://t.me/jcr96
