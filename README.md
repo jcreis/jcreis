@@ -60,14 +60,11 @@ In the past few months, I've been working on expanding the number of programming
 </a>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ---
 
-### My pages:
+### Contact me:
 
 [<img align="left" alt="João's GitHub" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />][github]
 [<img align="left" alt="João's LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
