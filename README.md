@@ -16,11 +16,15 @@ In the past few months, I've been working on expanding the number of programming
 
 ### Languages and Tools 🛠:
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
+
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/java-icon.jpg"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/scala-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/kotlin-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sag-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/c-icon.png"></code>
+
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/cpp-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/python-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/html-icon.png"></code>
