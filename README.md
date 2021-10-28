@@ -4,7 +4,7 @@
   
 I'm a Software Developer from Portugal with particular interest in back-end development, but always willing to get out of my confort zone to try out new stuff.<br/>
 <br/>
-I've graduated in 2021 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.
+I've graduated in 2020 from NOVA School of Science and Technology, with a masters focused on distributed systems and security.
 My thesis, titled "*TREDIS – A Trusted Full-Fledged SGX-Enabled REDIS Solution*", can be found [here](https://run.unl.pt/bitstream/10362/116775/1/Reis_2021.pdf) if you want to take a look.<br/>
 <br/>
 I have experience in the development and integration of back-end systems. I've worked in the telecommunications field as a back-end developer and in the financial/crypto market field as a security software developer and researcher.<br/>
@@ -14,10 +14,9 @@ In the past few months, I've been working on expanding the number of programming
 
 ---
 
-### Languages and Tools 🛠:
+### Languages and Tools:
 
 <p align="left">
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
@@ -51,7 +50,7 @@ In the past few months, I've been working on expanding the number of programming
 
 ---
 
-### Github Activity ✔:
+### Github Activity:
 
 <a href="https://github.com/jcreis">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcreis&theme=tokyonight" />
@@ -69,7 +68,7 @@ In the past few months, I've been working on expanding the number of programming
 
 ---
 
-### My Projects ✨:
+### My Projects:
 
 
 <a href="https://github.com/jcreis/VacationManager">
