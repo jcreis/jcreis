@@ -50,24 +50,6 @@ In the past few months, I've been working on expanding the number of programming
 
 ---
 
-### Github Activity:
-
-<a href="https://github.com/jcreis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcreis&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/jcreis">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcreis&show_icons=true&theme=tokyonight&line_height=27" alt="João's github stats"/>
-</a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-
 ### My Projects:
 
 
@@ -85,6 +67,24 @@ In the past few months, I've been working on expanding the number of programming
 
 <a href="https://github.com/jcreis/SpringShellApp">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sgx-experiments&theme=tokyonight" />
+</a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+### Github Activity:
+
+<a href="https://github.com/jcreis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcreis&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/jcreis">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=jcreis&show_icons=true&theme=tokyonight&line_height=27" alt="João's github stats"/>
 </a>
 
 
