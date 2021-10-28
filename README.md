@@ -25,8 +25,8 @@ In the past few months, I've been working on expanding the number of programming
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="css" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
@@ -37,15 +37,6 @@ In the past few months, I've been working on expanding the number of programming
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="30" height="30"/>
   <img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sgx-icon.png" alt="sgx" width="30" height="30"/>
 </p>
-
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/nodejs-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/mysql-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/oraclesql-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/redis-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/git-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/docker-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/firebase-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sgx-icon.png"></code>
 
 
 ---
