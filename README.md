@@ -1,4 +1,5 @@
-### Hey! 👋 I'm João [ J · oa · ow ]
+<h1 align="center">Hey! 👋 I'm João </h1>
+### Hey!  I'm João [ J · oa · ow ]
 
 <br/>
   
