@@ -17,11 +17,11 @@ In the past few months, I've been working on expanding the number of programming
 ### Languages and Tools 🛠:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="javascript" width="30" height="30"/>
-  <img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sag-icon.png">
+  <img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sag-icon.png" alt="webmethods" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 </p>
