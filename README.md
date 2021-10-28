@@ -75,6 +75,8 @@ In the past few months, I've been working on expanding the number of programming
 <br/>
 <br/>
 
+<!---
+
 ---
 
 ### Github Activity:
@@ -86,6 +88,8 @@ In the past few months, I've been working on expanding the number of programming
 <a href="https://github.com/jcreis">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jcreis&show_icons=true&theme=tokyonight&line_height=27" alt="João's github stats"/>
 </a>
+
+-->
 
 
 [github]: https://github.com/jcreis
