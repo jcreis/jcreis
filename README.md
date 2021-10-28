@@ -17,21 +17,27 @@ In the past few months, I've been working on expanding the number of programming
 ### Languages and Tools 🛠:
 
 <p align="left">
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></code>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
-  <code><img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sag-icon.png" alt="webmethods" width="28" height="30"/></code>
+  <img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sag-icon.png" alt="webmethods" width="28" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="css" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+  <img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/oraclesql-icon.png" alt="oraclesql" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="30" height="30"/>
+  <img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sgx-icon.png" alt="sgx" width="30" height="30"/>
 </p>
 
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/cpp-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/python-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/html-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/css-icon.png"></code>
-<code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/javascript-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/nodejs-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/mysql-icon.png"></code>
 <code><img height="20" src="https://github.com/jcreis/jcreis/blob/main/tech-icons/oraclesql-icon.png"></code>
