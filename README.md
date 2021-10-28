@@ -33,8 +33,8 @@ In the past few months, I've been working on expanding the number of programming
   <img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/oraclesql-icon.png" alt="oraclesql" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="34" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="30" height="30"/>
   <img src="https://github.com/jcreis/jcreis/blob/main/tech-icons/sgx-icon.png" alt="sgx" width="30" height="30"/>
 </p>
 
