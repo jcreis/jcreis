@@ -41,7 +41,7 @@ In the past few months, I've been working on expanding the number of programming
 
 ### My Projects:
 
-
+<p>
 <a href="https://github.com/jcreis/VacationManager">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=VacationManager&theme=tokyonight" />
 </a>
@@ -57,6 +57,7 @@ In the past few months, I've been working on expanding the number of programming
 <a href="https://github.com/jcreis/SpringShellApp">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sgx-experiments&theme=tokyonight" />
 </a>
+</p>
 
 <br/>
 <br/>
