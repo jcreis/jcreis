@@ -43,34 +43,23 @@ In the past few months, I've been working on expanding the number of programming
 
 
 <a href="https://github.com/jcreis/VacationManager">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=VacationManager&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=VacationManager&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/jcreis/sparkApp">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sparkApp&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sparkApp&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/jcreis/SS_StatusRetriever">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SS_StatusRetriever&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SS_StatusRetriever&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/jcreis/SpringShellApp">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sgx-experiments&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sgx-experiments&theme=tokyonight" />
 </a>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 ---
