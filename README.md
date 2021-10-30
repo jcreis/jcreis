@@ -50,8 +50,8 @@ In the past few months, I've been working on expanding the number of programming
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=sparkApp&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/jcreis/SpringShellApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SpringShellApp&theme=tokyonight" />
+<a href="https://github.com/jcreis/SS_StatusRetriever">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcreis&repo=SS_StatusRetriever&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/jcreis/SpringShellApp">
