@@ -8,7 +8,7 @@ My thesis, titled "*TREDIS – A Trusted Full-Fledged SGX-Enabled REDIS Solution
 <br/>
 I have experience in the development and integration of back-end systems. I've worked in the telecommunications field as a back-end developer and in the financial/crypto market field as a security software developer and researcher.<br/>
 <br/>
-In the past few months, I've been working on expanding the number of programming languages I'm familiar with - currently looking at C++ and Python. I also have interest in expanding my knowledge to the front-end techs, such as React and Angular. But one thing at a time :).<br/>
+In the past few months, I've been working on expanding the number of programming languages I'm familiar with - currently looking at C++ and Python. I also have interest in expanding my knowledge to the front-end techs, such as React and Angular. But one thing at a time :)<br/>
 
 
 ---
