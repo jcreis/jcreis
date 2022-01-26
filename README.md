@@ -1,4 +1,4 @@
-<h1 align="left">Hey! 👋 I'm João [ J · oa · ow ] </h1>
+<h1 align="left">Hey! 👋 I'm João [ Jo · a · ow ] </h1>
 
 
 I'm a Software Developer from Portugal with particular interest in back-end development, but always willing to get out of my confort zone to try out new stuff.<br/>
